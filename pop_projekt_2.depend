@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610023641 source:c:\users\user\desktop\studia\podstawy programowania\pop_projekt_2\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdio.h>
+	<cstdio>
+
